@@ -1,1 +1,1 @@
-# QuantumultX-configuration
+复制链接后，去QuantumultX下载配置
