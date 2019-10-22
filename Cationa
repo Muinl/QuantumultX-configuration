@@ -1,0 +1,110 @@
+[general]
+[dns]
+server=223.5.5.5
+server=114.114.114.114
+server=119.29.29.29
+server=8.8.8.8
+[policy]
+available=🇰🇷 Auto KR,Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Korea.png
+
+available=🏃 Auto BGP,Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/BGP.png
+available=♾ IPLC, Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/IPLC.png
+available=🇨🇳 Auto Return, Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=China.PNG
+available=🏃 Auto US, Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/United_States.png
+
+available=🏃 Auto JP, Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Japan.png
+
+available=🏃 Auto TW, Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Taiwan.png
+available=🏃 Auto HK, Tg频道：https://t.me/ZCUR8MG,删除此条后添加自己的节点,设置页面添加机场订阅链接, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Hong_Kong.png
+static=🎶 TikTok, 🌍 Proxy, 🏃 Auto HK, 🏃 Auto JP, 🏃 Auto TW, 🏃 Auto US, 🇰🇷 Auto KR, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/TikTok.png
+
+
+static=💻 Domestic,🏃 Auto TW, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Domestic.png
+static=📧 Mail, 🌍 Proxy, 🏃 Auto US, 🏃 Auto JP, 🏃 Auto TW, 🏃 Auto HK, 🇰🇷 Auto KR, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Mail.png
+static=🔞 Adult Web, 🌍 Proxy, 🏃 Auto US, 🏃 Auto JP, 🏃 Auto TW, 🏃 Auto HK, 🇰🇷 Auto KR, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Pornhub.png
+
+static=🍎 Apple, 🌍 Proxy, 🏃 Auto US, 🏃 Auto TW, 🏃 Auto JP, 🏃 Auto HK, 🇰🇷 Auto KR, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Apple.png
+static=🇺🇸 EncoreTVB, 🏃 Auto US, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/*0.1.png
+
+static=🇯🇵 AbemaTV, 🏃 Auto JP, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/*0.3.png
+
+static=📬 Twitter, 🏃 Auto US, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Twitter.png
+
+static=✈️ Telegram, 🌍 Proxy, 🏃 Auto HK, 🏃 Auto TW, 🏃 Auto JP, 🏃 Auto US, 🇰🇷 Auto KR, ♾ IPLC, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Telegram.png
+
+static=🧭 Speedtest, 🌍 Proxy, 🏃 Auto HK, 🏃 Auto TW, 🏃 Auto JP, 🏃 Auto US, 🇰🇷 Auto KR, 🚀 Direct, ♾ IPLC, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Speedtest.png
+
+
+static=🍭 Bahamut, 🏃 Auto TW, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/*0.5.png
+
+static=🚀 Direct, direct , img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Direct.png
+
+static=🎥 YouTube, 🌍 Proxy, 🏃 Auto US, 🏃 Auto JP, 🏃 Auto TW, 🏃 Auto HK, 🇰🇷 Auto KR, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/YouTube.png
+static=📺 Netflix, 🌍 Proxy, 🏃 Auto US, 🏃 Auto JP, 🏃 Auto TW, 🏃 Auto HK, 🇰🇷 Auto KR, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Netflix.png
+static=🚦 Advertising, reject , img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Advertising.png
+
+static=💬 Final, 🌍 Proxy, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Final.png
+static=🌍 Proxy, 🏃 Auto HK, 🏃 Auto JP, 🏃 Auto TW, 🏃 Auto US, 🇰🇷 Auto KR, ♾ IPLC, 🚀 Direct, img-url=https://raw.githubusercontent.com/zealson/Zure/master/IconSet/Proxy.png
+[server_remote]
+https://jiji.world/link/TeEG7ySjPneDCw3E, enabled=true
+[filter_remote]
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/TikTok.list, tag=TikTok, force-policy=🎶 TikTok, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=reject, force-policy=🚦 Advertising, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Mail.list, tag=mail, force-policy=📧 Mail, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/DomesticMedia.list, tag=DomesticMedia, force-policy=💻 Domestic, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/encoreTVB.list, tag=EncoreTVB, force-policy=🇺🇸 EncoreTVB, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/YouTube.list, tag=Youtube, force-policy=🎥 YouTube, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/Pornhub.list, tag=Pornhub, force-policy=🔞 Adult Web, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/Netflix.list, tag=Netflix, force-policy=📺 Netflix, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/Bahamut.list, tag=Bahamut, force-policy=🍭 Bahamut, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Media/AbemaTV.list, tag=AbemaTV, force-policy=🇯🇵 AbemaTV, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Telegram.list, tag=Telegram, force-policy=✈️ Telegram, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Speedtest.list, tag=Speedtest, force-policy=🧭 Speedtest, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list, tag=Apple, force-policy=🍎 Apple, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Unbreak.list, tag=Unbreak, force-policy=🚀 Direct, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Advertising.list, tag=Advertising, force-policy=🚦 Advertising, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Hijacking.list, tag=Hijacking, force-policy=🚦 Advertising, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/ForeignMedia.list, tag=ForeignMedia, force-policy=🌍 Proxy, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Global.list, tag=Global, force-policy=🌍 Proxy, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list, tag=China, force-policy=🚀 Direct, enabled=true
+;https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.txt, tag=Sample, force-policy=your-policy-name, enabled=true
+
+
+[rewrite_remote]
+http://cloudcompute.lbyczf.com/quanx-rewrite, tag=Ihie1, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf, tag=NobyDa, enabled=true
+https://github.com/ConnersHua/Profiles/raw/master/Quantumult/X/Rewrite.conf, tag=神机, enabled=true
+
+[server_local]
+
+[filter_local]
+
+DOMAIN-SUFFIX,abema.tv, 🇯🇵 AbemaTV
+
+# > Twitter
+DOMAIN-SUFFIX,pscp.tv, 📬 Twitter
+DOMAIN-SUFFIX,periscope.tv, 📬 Twitter
+DOMAIN-SUFFIX,t.co, 📬 Twitter
+DOMAIN-SUFFIX,twimg.co, 📬 Twitter
+DOMAIN-SUFFIX,twimg.com, 📬 Twitter
+DOMAIN-SUFFIX,twitpic.com, 📬 Twitter
+DOMAIN-SUFFIX,vine.co, 📬 Twitter
+DOMAIN-KEYWORD,twitter, 📬 Twitter
+
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 224.0.0.0/24, direct
+geoip, cn, direct
+final, 💬 Final
+
+[rewrite_local]
+(?<=(carrier|account|sys)_region=)CN url 307 JP
+(.*video_id=\w{32})(.*watermark=)(.*) url 302 $1
+
+[mitm]
+passphrase = D1F233D5
+p12 = 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
+
+hostname = api*.musical.ly,api.huoshan.com,api.amemv.com,aweme.snssdk.com,api*.tiktokv.com,api.tiktokv.com, capi.douyucdn.cn, apiv2.douyucdn.cn, staticlive.douyucdn.cn, api.weibo.cn, *.nga.cn, *.zhihu.com, als.baidu.com, static.api.m.panda.tv, api.gkaorlz.com, aweme*.snssdk.com, vsco.co, *.snssdk.com, mp.weixin.qq.com,api.rr.tv, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api.zhihu.com,app.bilibili.com, api.bilibili.com,*.api.vcinema.cn, i.weread.qq.com,api2.gkaorlz.com, ios.fuliapps.com, apple.fuliapps.com, newdrugs.dxy.cn
